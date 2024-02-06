@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ibrahim Tekfidan
-- 👀 I’m interested in React.js, Typescript, Javascript, SASS and CSS.
+- 👀 I’m interested in Front-end development.
 - 🌱 I’m currently learning React.js 
 - 📫 How to reach me ibrahim.tekfidn@gmail.com
 
